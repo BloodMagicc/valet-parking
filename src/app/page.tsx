@@ -20,7 +20,7 @@ export default function EmployeeDashboard() {
   return (
     <div className="min-h-screen bg-gray-950 p-4 text-white sm:p-6">
       <header className="mx-auto max-w-4xl pb-6">
-        <h1 className="text-2xl font-bold">Whatfix Parking Tracker</h1>
+        <h1 className="text-2xl font-bold">Valet Parking Tracker</h1>
         <p className="text-xs text-gray-400">Live Availability</p>
       </header>
       <main className="mx-auto max-w-4xl space-y-6">

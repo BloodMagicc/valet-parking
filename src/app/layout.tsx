@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Whatfix Valet Parking',
+  title: 'Valet Parking Tracker',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
